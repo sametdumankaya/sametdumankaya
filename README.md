@@ -29,7 +29,3 @@ I have been working as a data scientist for 6 years. Previously, I was a full st
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sametdumankaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/samet-dumankaya-b7328299" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sametdumankaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### My GitHub Stats
-
-<a href="http://www.github.com/sametdumankaya"><img src="https://github-readme-stats.vercel.app/api?username=sametdumankaya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sametdumankaya's GitHub stats" /></a>
